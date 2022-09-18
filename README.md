@@ -7,4 +7,6 @@ popv网站：https://tabula-sapiens-portal.ds.czbiohub.org/annotateuserdata
 
 popv github：https://github.com/czbiohub/PopV
 
+具体配置和使用方法在`popv.ipynb`文件中
+
 
